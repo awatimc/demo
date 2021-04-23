@@ -1,7 +1,8 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "ajkh"
+            "sha256": "ajkh",
+            "sha":"keckec"
         },
         "pipfile-spec": 6,
         "requires": {
